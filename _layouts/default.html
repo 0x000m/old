@@ -1,7 +1,12 @@
 <html>
   <head>
+    <style>
+      main{max-width:600px:}
   </head>
   <body>
+       {% if page.teaser %}
+      <p><em>{{page.teaser}}</em></p>
+  {% endif %}
    <main>
     {{content}}
     </main>
