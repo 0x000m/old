@@ -5,10 +5,10 @@ layout: default
 <a href="bonnie1.html">Back to Homepage</a>
 
  {% if page.teaser %}
-      <p><em>{{ page.teaser }}</em></p>
-  {% endif %}<br><br>
+      <p class="page-teaser"><em>{{ page.teaser }}</em></p>
+  {% endif %}
 
 <main>
- <strong>{{ page.header }}</strong>
+ <p class="page-header"><strong>{{ page.header }}</strong></p>
     {{content}}
 </main>
