@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 teaser: You can use the anchors to remember your place. In FireFox, right click an anchor and select "Bookmark This Link". For Internet Explorer, click the anchor, then select "Add to Favorites" from the Favorites menu.
 ---
 
