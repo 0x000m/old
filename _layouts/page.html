@@ -4,6 +4,10 @@ layout: default
 
 <a href="bonnie1.html">Back to Homepage</a>
 
+ {% if page.teaser %}
+      <p><em>{{ page.teaser }}</em></p>
+  {% endif %}
+
 <main>
     {{content}}
 </main>
