@@ -1,4 +1,4 @@
 collections:
   tweets:
     output: true
-    permalink: /tweets
+    permalink: /:collection/:name
