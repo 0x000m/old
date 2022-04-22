@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p>faferfe</p>
+
 
 {% assign tweets = site.tweets | sort: 'date' | reverse %}
 {% for tweets in tweets %}
@@ -10,14 +10,14 @@ layout: default
 <div class="h-entry note post-stub">
  
  
-<a href="{{ tweets.url | prepend: site.baseurl }}">
+ <p class="p-content"> <a href="{{ tweets.url | prepend: site.baseurl }}">
    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ tweets.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ tweets.date | date: date_to_rfc822 }}
       </time>
    </a>
  
- <p class="p-content"> 
+
    {{ tweets.content | truncate: 445 }}
  </p>
  
