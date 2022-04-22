@@ -1,0 +1,4 @@
+collections:
+  tweets:
+    output: true
+    permalink: /tweets
