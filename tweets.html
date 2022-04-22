@@ -3,6 +3,19 @@ layout: default
 ---
 
 
-\
+{% assign documents = site.documents | sort: 'date' | reverse %}
 
+{% for document in documents limit:500 %}
+  {% if document.layout = 'tweet' %}
+<div class="post-stub">
+      <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
+    
+        <p class="p-content"> 
+   {{ document.content | truncate: 445 }}
+ </p>
+         {% endif %}
+      
+        
+ </div> 
+{% endfor %}
 
