@@ -10,11 +10,11 @@ layout: default
 
  
  
-<div style="margin-bottom:1em;"><a href="{{ tweets.url | prepend: site.baseurl }}">
+<div class="tweet" style="margin-bottom:1em;"><a href="{{ tweets.url | prepend: site.baseurl }}">
    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" style="display:inline;"datetime="{{ tweets.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ tweets.date | date: date_to_rfc822 }}
- </time></a> <p style="display:inline;">{{ tweets.content | truncate: 445 }}</p></div>
+ </time></a> {{ tweets.content | truncate: 445 }}</div>
  
 
 
