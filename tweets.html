@@ -7,7 +7,7 @@ layout: default
 {% assign tweets = site.tweets | sort: 'date' | reverse %}
 {% for tweets in tweets %}
 
-<div class="h-entry note post-stub">
+
  
  
  <p class="p-content"> <a href="{{ tweets.url | prepend: site.baseurl }}">
@@ -32,6 +32,5 @@ layout: default
        </div>  
       {% endif %}-->
  
-</div>
 
 {% endfor %}  
