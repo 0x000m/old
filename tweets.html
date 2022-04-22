@@ -10,16 +10,15 @@ layout: default
 
  
  
- <p class="p-content"> <a href="{{ tweets.url | prepend: site.baseurl }}">
+<a href="{{ tweets.url | prepend: site.baseurl }}">
    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ tweets.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ tweets.date | date: date_to_rfc822 }}
       </time>
-   </a>
+   </a> {{ tweets.content | truncate: 445 }}
  
 
-   {{ tweets.content | truncate: 445 }}
- </p>
+
  
    <!--{% if notes.image %}
       <div class="post-image">
