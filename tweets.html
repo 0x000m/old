@@ -5,7 +5,7 @@ layout: default
 
     {% assign sorted = site.tweets | sort: 'date' | reverse %}
     {% for post in sorted %}
-<p class="post-excerpt">{{ tweets.content | truncate: 160 }}</p>
+<p class="post-excerpt">{{ post.content | truncate: 160 }}</p>
     {% endfor %}
 
 
