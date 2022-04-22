@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+{% for tweets in site.tweets %}
+
+<p class="post-excerpt">{{ tweets.content | truncate: 160 }}</p>
+
+{% endfor %} 
