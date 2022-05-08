@@ -14,8 +14,5 @@ My email address is makgill@protonmail.ch but I rarely check it and only use it 
 
 <hr>
 
-<br><!---<a href="film.html">Film Policy</a>
-<br><i>All writings here are copyright(c) Andy Weir 2009-2014</i>--->
-
 <a href="index.html"><img src="http://www.gkc.org.uk/gifs/home.gif" align="MIDDLE" alt="[home]"></a>
   <a href="index.html">Up to Deryk's Works on the Web</a><hr>
