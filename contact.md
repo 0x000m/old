@@ -10,7 +10,11 @@ Letters and packages can be addressed to "Deryk Makgill" at...
 I prefer physical post to reading and writing through a screen, and I will respond to every piece of mail I receive. Sometimes I might repost the letters I 
 send out here on the site.
 
-My email address is makgill@protonmail.ch but I rarely check it and only use it for business and legal communications that can't be avoided. Please don't send messages on Twitter, Telegram, etc. I WANT to hear from you, but I've made the mistake in the past of being available on every messaging and social platform you can be available on and it was unmanagable and distracting.
+My email address is makgill@protonmail.ch but I rarely check it and only use it for business and legal communications that can't be avoided. Send me a letter!
+
+Please don't send messages on Twitter, Telegram, etc. I WANT to hear from you, but I've made the mistake in the past of being available on every messaging and social platform you can be available on and it was unmanagable and distracting.
+
+If you need to get in touch about a product purchased on the store, please email store@deryk.ch and you will get a reply within 24 hours.
 
 <hr>
 
