@@ -15,4 +15,4 @@ My email address is makgill@protonmail.ch but I rarely check it and only use it 
 <hr>
 
 <a href="index.html"><img src="http://www.gkc.org.uk/gifs/home.gif" align="MIDDLE" alt="[home]"></a>
-  <a href="index.html">Up to Deryk's Works on the Web</a><hr>
+  <a href="index.html">Up to Deryk's Works on the Web</a>
