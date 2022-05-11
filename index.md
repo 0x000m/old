@@ -18,8 +18,7 @@ Click Here for something random.
 
 #### Meta:
 
-Information about me, this site and misc personal pages.
-
+Information about me, this site and misc personal pages.<br>
 About Me<br>
 About Site<br>
 Privacy Policy<br>
