@@ -6,5 +6,9 @@ This is the website of Deryk Makgill. I write about psychology, statistics, and 
 
 [Click here](/about) for personal and contact information.
 
+[Click here](/rss) for RSS feed or [here](/) for my newsletter.
+
+[Click here](/random) for something random.
+
 ---
 
