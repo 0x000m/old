@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1>Tweets, Twetches, etc...</p></h1>
+<h1>Tweets, Twetches, etc...</h1>
 
 {% assign tweets = site.tweets | sort: 'date' | reverse %}
 {% for tweets in tweets %}
