@@ -2,3 +2,6 @@ collections:
   tweets:
     output: true
     permalink: /:collection/:name
+  changelog:
+    output: true
+    permalink: /:collection/:name
