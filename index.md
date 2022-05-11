@@ -17,7 +17,7 @@ This is the website of Deryk Makgill. I write about psychology, statistics, and 
  
 <div class="tweet" style="margin-bottom:1em;">
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-<span class="dt-published" style="display:inline;"datetime="{{ tweets.date | date_to_xmlschema }}" itemprop="datePublished">{{ tweets.date | date: date_to_rfc822 }}</span></a> {{ tweets.content | truncate: 445 }}</div>
+<span class="dt-published" style="display:inline;"datetime="{{ tweets.date | date_to_xmlschema }}" itemprop="datePublished">{{ tweets.date | date: date_to_rfc822 }}</span> {{ tweets.content | truncate: 445 }}</div>
  
 {% endfor %}  
 
