@@ -12,3 +12,9 @@ This is the website of Deryk Makgill. I write about psychology, statistics, and 
 
 ---
 
+05-11-2022 - Almost done. 
+
+05-10-2022 - Okay. It's time to start writing again. Working on this new website, which will have no styling because CSS is the enemy.
+
+---
+
