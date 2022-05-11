@@ -34,12 +34,14 @@ This is the website of Deryk Makgill. I write about psychology, statistics, and 
 
  
  
-<div class="changelog" style="margin-bottom:1em;">
+<div class="tweet" style="margin-bottom:1em;">
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ changelog.date | date: date_to_rfc822 }}: {{ changelog.content | truncate: 445 }}</div>
  
 
 {% endfor %}  
+
+---
 
 All written materials on this Web site are my own, and all are released under the Do What the Fuck You Want to Public License Version 2.
 
