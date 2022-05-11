@@ -21,17 +21,6 @@ This is the website of Deryk Makgill. I write about psychology, statistics, and 
 
 
  
-   <!--{% if notes.image %}
-      <div class="post-image">
-        <a href="{{ notes.url | relative_url }}" style="
-    text-decoration: none;
-">
-          <img src="{{ notes.image | relative_url }}" alt="{{ notes.alt }}">
-          
-        </a>
-       </div>  
-      {% endif %}-->
- 
 
 {% endfor %}  
 
