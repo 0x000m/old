@@ -20,8 +20,5 @@ This is the website of Deryk Makgill. I write about psychology, statistics, and 
 {% endfor %}  
 
 
-
----
-
 All written materials on this Web site are my own, and all are released under the Do What the Fuck You Want to Public License Version 2.
 
