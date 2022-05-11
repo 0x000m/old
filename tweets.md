@@ -14,7 +14,7 @@ layout: default
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
    <time class="dt-published" style="display:inline;"datetime="{{ tweets.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ tweets.date | date: date_to_rfc822 }}
- </time></a> {{ tweets.content | truncate: 445 }}</div>
+ </time><p> {{ tweets.content | truncate: 445 }}</p></div>
  
 
 
