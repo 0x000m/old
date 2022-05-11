@@ -29,7 +29,7 @@ This is the website of Deryk Makgill. I write about psychology, statistics, and 
 <hr>
 
 {% assign changelog = site.changelog | sort: 'date' | reverse %}
-{% for changlog in changelog %}
+{% for changelog in changelog %}
 
 
  
