@@ -8,8 +8,9 @@ This is the website of Deryk Makgill. I write about psychology, statistics, and 
 
 #### Meta:
 
-Information about me, this site and misc personal pages.<br>
-About Me<br>
-About Site<br>
-Privacy Policy<br>
-Terms
+Information about me, this site and misc personal pages.
+
+-About Me
+-About Site
+-Privacy Policy
+-Terms
