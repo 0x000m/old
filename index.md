@@ -43,4 +43,5 @@ This is the website of Deryk Makgill. I write about psychology, statistics, and 
 
 ---
 
-Last modified: 11 May 2022
+Last modified: 11 May 2022<br>
+[Deryk Makgll](/) 1930 Airlane Drive, Nashville, TN 37210
