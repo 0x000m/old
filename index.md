@@ -323,17 +323,7 @@ Prologue to <i>The Floating Admiral</i> by Members of the Detection Club, includ
 
 <hr>
 
-<div class="row">
-  <div class="column">
-    <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/14203/production/_89553428_tolkienmap2.png" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://external-preview.redd.it/_fEofQgOcQs6MdP0E788uy-T5DNupLC-NGV5IgOQZek.jpg?auto=webp&s=c2ad0b36904be8972ed89d9512905027327b86ec" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://www.geographicus.com/mm5/graphics/00000001/L/MiddleEarth-fenlon-1982-3.jpg" alt="Mountains" style="width:100%">
-  </div>
-</div>
+
 
 <hr>
 
