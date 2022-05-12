@@ -4,7 +4,7 @@ layout: default
 
 This is the website of Deryk Makgill. I write about psychology, statistics, and technology. I am best known for work on the darknet markets & Bitcoin⁠, blinded self-experiments⁠, dual n-back & spaced repetition⁠, and anime neural networks⁠.
 
-<p class="tweet"><a href="/">BUY</a> YOUR SQUARE OF DIGITAL REAL ESTATE ON THIS SITE AND HAVE YOUR NAME, MESSAGE, AND ART HOSTED FOR LIFE. NO RESTRICTIONS.</p>
+<p class="tweet"><a href="/">BUY</a> YOUR SQUARE OF DIGITAL REAL ESTATE ON THIS SITE AND HAVE YOUR NAME, MESSAGE, AND ART HOSTED FOR LIFE. </p>
 
 ---
 
