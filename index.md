@@ -22,7 +22,7 @@ This is the website of Deryk Makgill. I write about psychology, statistics, and 
  
 <div class="tweet" style="margin-bottom:1em;">
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ tweets.date | date: date_to_rfc822 }}: {{ tweets.content | truncate: 445 }}</div>
+       {{ tweets.date | date_to_long_string }}: {{ tweets.content | truncate: 445 }}</div>
  
 
 {% endfor %}  
@@ -36,7 +36,7 @@ This is the website of Deryk Makgill. I write about psychology, statistics, and 
  
 <div class="tweet" style="margin-bottom:1em;">
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ changelog.date | date: date_to_rfc822 }}: {{ changelog.content | truncate: 445 }}</div>
+      {{ changelog.date | date_to_long_string }}: {{ changelog.content | truncate: 445 }}</div>
  
 
 {% endfor %}  
