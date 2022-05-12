@@ -29,7 +29,10 @@ This is the website of Deryk Makgill. I write about psychology, statistics, and 
 
 <hr>
 
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/1610_Cecco_del_Caravaggio_Christ_expulses_money_changers_anagoria.JPG/1599px-1610_Cecco_del_Caravaggio_Christ_expulses_money_changers_anagoria.JPG?20120904164840)
+<div class="container">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/1610_Cecco_del_Caravaggio_Christ_expulses_money_changers_anagoria.JPG/1599px-1610_Cecco_del_Caravaggio_Christ_expulses_money_changers_anagoria.JPG?20120904164840" alt="Snow" style="width:100%;">
+  <div class="centered">Centered</div>
+</div>
 
 <hr>
 
