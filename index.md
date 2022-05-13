@@ -60,6 +60,8 @@ Translations</div>
 
 ---
 
+#### Changelog
+
 {% assign changelog = site.changelog | sort: 'date' | reverse %}
 {% for changelog in changelog %}
 
