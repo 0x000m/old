@@ -65,7 +65,3 @@ Yes, promotion and distribution will be problems. Regime media will not want to 
 In the meantime, word of mouth and other samizdat methods will have to do. It may be naïve to believe that a good product will overcome any amount of censorship or de-platforming, but that’s a healthier self-delusion than believing we have no way to win, and so shouldn’t try. Obviously, a few novels or story collections, even TV shows or films — even if they’re massive hits — are not going to solve all our problems. But they would undoubtedly be potent weapons that our arsenal utterly lacks and that the other side wields in abundance.
 
 The Right has been doing the same things now for half a century, and we’ve been losing for almost as long. Perhaps it’s time to try something new.
-
-
-
-**This review was written on May 14, 2022 and has not been updated since.**
