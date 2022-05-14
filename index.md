@@ -87,6 +87,19 @@ Translations</div>
 
 ---
 
+<div class="container">
+  <img src="https://solar.lowtechmagazine.com/dithers/restoring-old-way-of-warming.png" alt="Snow" style="width:100%;">
+  <div class="centered" style="font-size:6em;font-weight:bold; font-family:serif;">
+Miscellany</div>
+</div>
+
+- [The Family of the Vourdalak](/) by Alexei Tolstoy (1884) -- [html](/) (138K) -- [pdf](/) (138K)
+- [The Family of the Vourdalak](/) by Alexei Tolstoy (1884) -- [html](/) (138K) -- [pdf](/) (138K)
+- [Dragon Day](/) by Matt Pegas (2021) - [html](/) (138K) -- [pdf](/) (138K)
+- [Rose](/) by Paul Town (2021) - [html](/) (138K) -- [pdf](/) (138K)
+
+---
+
 #### Changelog
 
 {% assign changelog = site.changelog | sort: 'date' | reverse %}
