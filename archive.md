@@ -2,6 +2,8 @@
 layout: post
 ---
 
+# Archive
+
 I publish exclusively to my popular newsletter, [The Sunday Dispatches,](/) once a week. Some of those articles appear below a few weeks later.
 
 ### [Dear FNAME, newsletter personalization isn’t what you think it is](/)
