@@ -62,7 +62,7 @@ Interviews</div>
 ---
 
 <div class="container">
-  <img src="https://artuk.org/download/the-scribe-68808" alt="Snow" style="width:100%;">
+  <img src="https://i.imgur.com/yMoqYlR.png" alt="Snow" style="width:100%;">
   <div class="bottom-left" style="font-size:6em;font-weight:bold; font-family:serif;">
 Translations</div>
 </div>
