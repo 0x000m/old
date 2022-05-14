@@ -20,3 +20,5 @@ If you need to get in touch about a product purchased on the store, please email
 
 <a href="index.html"><img src="http://www.gkc.org.uk/gifs/home.gif" align="MIDDLE" alt="[home]"></a>
   <a href="index.html">Up to Deryk's Works on the Web</a>
+
+<p class="img"><img alt="image" loading="lazy" src="https://solar.lowtechmagazine.com/dithers/AfzinkenStevinsluizen.png"></p>
