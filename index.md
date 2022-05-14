@@ -4,7 +4,7 @@ layout: default
 
 <style>body{font-size:18px;}</style>
 
-This is the website of Deryk Makgill. I write about [Bitcoin](/), [old books](/), and [technology](/). I am best known for work on the [darknet markets](/) & [Bitcoin⁠](/), [blinded self-experiments](/)⁠, [dual n-back & spaced repetition⁠](/), and [anime neural networks](/)⁠.
+This is the website of 0x000m. I write about [Bitcoin](/), [old books](/), and [technology](/). I am best known for work on the [darknet markets](/) & [Bitcoin⁠](/), [blinded self-experiments](/)⁠, [dual n-back & spaced repetition⁠](/), and [anime neural networks](/)⁠.
 
 ---
 
