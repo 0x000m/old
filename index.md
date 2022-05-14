@@ -49,8 +49,8 @@ Reviews</div>
 
 
 - [The Family of the Vourdalak](/) by Alexei Tolstoy (1884) -- [html](/) (138K) -- [pdf](/) (138K)
-- [Dragon Day](/) by Matt Pegas (2021) - html](/) (138K) -- [pdf](/) (138K)
-- [Rose](/) by Paul Town (2021) - html](/) (138K) -- [pdf](/) (138K)
+- [Dragon Day](/) by Matt Pegas (2021) - [html](/) (138K) -- [pdf](/) (138K)
+- [Rose](/) by Paul Town (2021) - [html](/) (138K) -- [pdf](/) (138K)
 
 ---
 
