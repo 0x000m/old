@@ -45,7 +45,7 @@ Essays</div>
 ---
 
 <div class="container">
-  <img src="https://solar.lowtechmagazine.com/dithers/barber-surgeon.png" alt="Snow" style="width:100%;">
+  <img src="https://solar.lowtechmagazine.com/dithers/node-tegola.png" alt="Snow" style="width:100%;">
   <div class="top-right" style="font-size:6em;font-weight:bold; font-family:serif;">
 Reviews</div>
 </div>
