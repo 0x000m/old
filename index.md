@@ -51,7 +51,7 @@ Reviews</div>
 ---
 
 <div class="container">
-  <img src="blob:https://imgur.com/d16b6131-c231-43cc-96a7-589d444d6098" alt="Snow" style="width:100%;">
+  <img src="https://i.imgur.com/Mb66bCU.png" alt="Snow" style="width:100%;">
   <div class="bottom-right" style="font-size:6em;font-weight:bold; font-family:serif;">
 Interviews</div>
 </div>
