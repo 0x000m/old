@@ -2,23 +2,6 @@
 layout: default
 ---
 
-Letters and packages can be addressed to "Deryk Makgill" at...
+# Rose (Paul Town): A Review
 
-<p><strong>1930 Air Lane Drive<br>
-  Nashville, TN 37210</strong></p>
-
-I prefer physical post to reading and writing through a screen, and I will respond to every piece of mail I receive. Sometimes I might repost the letters I 
-send out here on the site.
-
-My email address is makgill@protonmail.ch but I rarely check it and only use it for business and legal communications that can't be avoided. Send me a letter!
-
-Please don't send messages on Twitter, Telegram, etc. I WANT to hear from you, but I've made the mistake in the past of being available on every messaging and social platform you can be available on and it was unmanagable and distracting.
-
-If you need to get in touch about a product purchased on the store, please email store@deryk.ch and you will get a reply within 24 hours.
-
-<hr>
-
-<a href="index.html"><img src="http://www.gkc.org.uk/gifs/home.gif" align="MIDDLE" alt="[home]"></a>
-  <a href="index.html">Up to Deryk's Works on the Web</a>
-
-<p class="img"><img alt="image" loading="lazy" src="https://solar.lowtechmagazine.com/dithers/AfzinkenStevinsluizen.png"></p>
+Welcome to my website! My name is Abby Castillo and my pronouns are she/her/hers. I am an interdisciplinary artist based in Portland, OR. My primary media are music, literature, and visual art. I offer freelance services as a graphic designer and as an English/Spanish translator. I sell zines and post twice a week to a Patreon. Currently I am pursuing a professional certificate in Creative Coding & Immersive Technologies from Portland Community College.
