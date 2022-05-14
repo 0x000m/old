@@ -51,7 +51,7 @@ Reviews</div>
 ---
 
 <div class="container">
-  <img src="https://live.staticflickr.com/3784/13946155583_e385bfc147_b.jpg" alt="Snow" style="width:100%;">
+  <img src="https://i.imgur.com/hw9Xt4m.png" alt="Snow" style="width:100%;">
   <div class="bottom-right" style="font-size:6em;font-weight:bold; font-family:serif;">
 Interviews</div>
 </div>
