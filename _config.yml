@@ -5,3 +5,5 @@ collections:
   changelog:
     output: true
     permalink: /:collection/:name
+
+paginate:         1
