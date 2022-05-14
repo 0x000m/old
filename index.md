@@ -61,7 +61,7 @@ Reviews</div>
 ---
 
 <div class="container">
-  <img src="https://solar.lowtechmagazine.com/dithers/the-surgeon.png" alt="Snow" style="width:100%;">
+  <img src="https://solar.lowtechmagazine.com/dithers/DC-laptop.png" alt="Snow" style="width:100%;">
   <div class="bottom-right" style="font-size:6em;font-weight:bold; font-family:serif;">
 Interviews</div>
 </div>
@@ -75,7 +75,7 @@ Interviews</div>
 ---
 
 <div class="container">
-  <img src="https://solar.lowtechmagazine.com/dithers/the-surgeon.png" alt="Snow" style="width:100%;">
+  <img src="https://solar.lowtechmagazine.com/dithers/llotja_valencia.png" alt="Snow" style="width:100%;">
   <div class="bottom-left" style="font-size:6em;font-weight:bold; font-family:serif;">
 Translations</div>
 </div>
