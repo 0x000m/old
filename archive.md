@@ -6,6 +6,9 @@ layout: post
 
 I publish exclusively to my popular newsletter, [The Sunday Dispatches,](/) once a week. Some of those articles appear below a few weeks later.
 
+<br>
+<br>
+
 ### [Dear FNAME, newsletter personalization isn’t what you think it is](/)
 
 Personalization is more than just adding “Hello FNAME” to the start of your emails.
