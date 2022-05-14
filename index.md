@@ -30,7 +30,7 @@ This is the website of Deryk Makgill. I write about [Bitcoin](/), [old books](/)
 <hr>
 
 <div class="container">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/1610_Cecco_del_Caravaggio_Christ_expulses_money_changers_anagoria.JPG/1599px-1610_Cecco_del_Caravaggio_Christ_expulses_money_changers_anagoria.JPG?20120904164840" alt="Snow" style="width:100%;">
+  <img src="https://i.imgur.com/1UnNP6B.png" alt="Snow" style="width:100%;">
   <div class="top-left" style="font-size:6em;font-weight:bold; font-family:serif;">
 Essays</div>
 </div>
