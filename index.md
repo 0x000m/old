@@ -40,7 +40,7 @@ Essays</div>
 ---
 
 <div class="container">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Peter_Paul_Rubens_115.jpg/2560px-Peter_Paul_Rubens_115.jpg" alt="Snow" style="width:100%;">
+  <img src="https://i.imgur.com/MeUkmXV.png" alt="Snow" style="width:100%;">
   <div class="top-right" style="font-size:6em;font-weight:bold; font-family:serif;">
 Reviews</div>
 </div>
