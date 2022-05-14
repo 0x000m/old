@@ -32,7 +32,7 @@ This is the website of Deryk Makgill. I write about [Bitcoin](/), [old books](/)
 <hr>
 
 <div class="container">
-  <img src="https://i.imgur.com/7vwfj6R.png" alt="Snow" style="width:100%;">
+  <img src="https://solar.lowtechmagazine.com/dithers/the-surgeon.png" alt="Snow" style="width:100%;">
   <div class="top-left" style="font-size:6em;font-weight:bold; font-family:serif;">
 Essays</div>
 </div>
@@ -45,7 +45,7 @@ Essays</div>
 ---
 
 <div class="container">
-  <img src="https://i.imgur.com/QTMt2rk.png" alt="Snow" style="width:100%;">
+  <img src="https://solar.lowtechmagazine.com/dithers/the-surgeon.png" alt="Snow" style="width:100%;">
   <div class="top-right" style="font-size:6em;font-weight:bold; font-family:serif;">
 Reviews</div>
 </div>
@@ -61,7 +61,7 @@ Reviews</div>
 ---
 
 <div class="container">
-  <img src="https://i.imgur.com/irS7xFK.png" alt="Snow" style="width:100%;">
+  <img src="https://solar.lowtechmagazine.com/dithers/the-surgeon.png" alt="Snow" style="width:100%;">
   <div class="bottom-right" style="font-size:6em;font-weight:bold; font-family:serif;">
 Interviews</div>
 </div>
@@ -75,7 +75,7 @@ Interviews</div>
 ---
 
 <div class="container">
-  <img src="https://i.imgur.com/nWZXeQZ.png" alt="Snow" style="width:100%;">
+  <img src="https://solar.lowtechmagazine.com/dithers/the-surgeon.png" alt="Snow" style="width:100%;">
   <div class="bottom-left" style="font-size:6em;font-weight:bold; font-family:serif;">
 Translations</div>
 </div>
