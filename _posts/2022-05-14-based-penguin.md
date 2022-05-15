@@ -6,7 +6,7 @@ title: Based Penguin Classics
 In an interview with IM—1776 from last year, I remarked that one of the Right’s notable failures is its inability to produce good artists. I attributed this failure in part to a lack of support and a failure of imagination by the donor class. Conservative donors, being, well, conservative, are averse, even loathe, spending money in ways and on things that everyone else hasn’t been funding for the last fifty years. This is one reason why the traditional think tanks and magazines aren’t hungry for cash, despite their dubious effectiveness in recent times. As an old business adage had it, nobody ever got fired for buying IBM. Even if the system fails — or the magazine bleeds subscribers, or the think tank wallows in irrelevance — there is little to no career or reputational risk to those responsible. Doing what everyone else is doing is almost always rewarded, or at least not punished.
 
 <figure>
-    <img src="https://i.imgur.com/pXyosTD.jpeg"
+    <img src="https://i.imgur.com/QztYm82.jpg"
          alt="Elephant at sunset">
     <figcaption>An elephant at sunset</figcaption>
 </figure>
@@ -15,7 +15,7 @@ In an interview with IM—1776 from last year, I remarked that one of the Right�
 And yet it must be admitted that the institutional Right is not in the greatest shape today. True, in one sense it’s more vital than ever, given new energy by the Trump phenomenon and the comprehensive rethink that catalyzed. But institutionally it’s mostly adrift: mostly stuck in the past, fighting old fights, reliving old glories, pretending (or believing) that nothing fundamental has changed. As someone who works within it (though at the best of its institutions!), it is naturally my hope that this situation can be turned around. But it must also be admitted that nearly all the most interesting and consequential work and thinking on the Right today is being done outside institutional walls (and constraints).
 
 <figure>
-    <img src="https://i.imgur.com/QztYm82.jpg"
+    <img src="https://i.imgur.com/kYR9UMG.jpg"
          alt="Elephant at sunset">
     <figcaption>An elephant at sunset</figcaption>
 </figure>
