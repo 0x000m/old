@@ -33,7 +33,7 @@ While the effort to reclaim and revitalize the Right’s institutions ought to g
 One way to do that would be to patronize emerging artists: specifically, storytellers. It is hardly an original insight to say that stories move the world to an infinitely greater extent than policy papers. Yet the Right spends infinitely more on the latter than on the former. The Left, which understands power and how to use it far better than we do, does not make this mistake.
 
 <figure>
-    <img src="https://i.imgur.com/rkjFnPU.jpg"
+    <img src="https://i.imgur.com/E4khuZC.jpg"
          alt="Elephant at sunset">
     <figcaption>An elephant at sunset</figcaption>
 </figure>
