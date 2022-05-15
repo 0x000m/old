@@ -15,7 +15,7 @@ In an interview with IM—1776 from last year, I remarked that one of the Right�
 And yet it must be admitted that the institutional Right is not in the greatest shape today. True, in one sense it’s more vital than ever, given new energy by the Trump phenomenon and the comprehensive rethink that catalyzed. But institutionally it’s mostly adrift: mostly stuck in the past, fighting old fights, reliving old glories, pretending (or believing) that nothing fundamental has changed. As someone who works within it (though at the best of its institutions!), it is naturally my hope that this situation can be turned around. But it must also be admitted that nearly all the most interesting and consequential work and thinking on the Right today is being done outside institutional walls (and constraints).
 
 <figure>
-    <img src="https://i.imgur.com/kYR9UMG.jpg"
+    <img src="https://i.imgur.com/QztYm82.jpg"
          alt="Elephant at sunset">
     <figcaption>An elephant at sunset</figcaption>
 </figure>
@@ -63,7 +63,7 @@ Wolfe began his career in the late 1950s, i.e., at a time when it was easier —
 He was born in Richmond, Virginia, attended Washington and Lee, tried out for but didn’t make the New York Giants pitching staff, then got a PhD at Yale. Eschewing the academy in favor of the ‘real world’, he became a reporter at the Springfield (Massachusetts) Union, the first (really only) job he was offered. From there he worked his way up the prestige chain, to the Washington Post (back when it wasn’t brute force propaganda), then to the New York Herald Tribune. The latter was, at the time Wolfe joined (1962), the New York Times’ only broadsheet rival and America’s Republican paper of record (sort of what the Wall Street Journal is today). But it limped out of the great newspaper strike of 1962-63 mortally wounded and was killed off by a second strike in 1966, leaving Wolfe without a job.
 
 <figure>
-    <img src="https://i.imgur.com/6Px9mZA.jpg"
+    <img src="https://i.imgur.com/w4pKhrs.jpg"
          alt="Elephant at sunset">
     <figcaption>An elephant at sunset</figcaption>
 </figure>
