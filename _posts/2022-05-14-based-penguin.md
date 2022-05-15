@@ -15,7 +15,7 @@ In an interview with IM—1776 from last year, I remarked that one of the Right�
 And yet it must be admitted that the institutional Right is not in the greatest shape today. True, in one sense it’s more vital than ever, given new energy by the Trump phenomenon and the comprehensive rethink that catalyzed. But institutionally it’s mostly adrift: mostly stuck in the past, fighting old fights, reliving old glories, pretending (or believing) that nothing fundamental has changed. As someone who works within it (though at the best of its institutions!), it is naturally my hope that this situation can be turned around. But it must also be admitted that nearly all the most interesting and consequential work and thinking on the Right today is being done outside institutional walls (and constraints).
 
 <figure>
-    <img src="https://i.imgur.com/g3T86P2.jpg"
+    <img src="https://i.imgur.com/kYR9UMG.jpg"
          alt="Elephant at sunset">
     <figcaption>An elephant at sunset</figcaption>
 </figure>
