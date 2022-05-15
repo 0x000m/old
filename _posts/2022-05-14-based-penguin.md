@@ -24,7 +24,7 @@ And yet it must be admitted that the institutional Right is not in the greatest 
 While the effort to reclaim and revitalize the Right’s institutions ought to go on (at least for those institutions that are plausibly salvageable), there’s no reason why all the conservative eggs need to be placed in this basket. Or — to compound the metaphor — the Right ought to be spreading its bets.
 
 <figure>
-    <img src="https://i.imgur.com/Qe6o5lu.jpg"
+    <img src="https://i.imgur.com/E9it98M.jpg"
          alt="Elephant at sunset">
     <figcaption>An elephant at sunset</figcaption>
 </figure>
