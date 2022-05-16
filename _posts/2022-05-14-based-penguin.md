@@ -85,7 +85,7 @@ Wolfe also made decent money on his first three books, especially The Electric C
     <figcaption>An elephant at sunset</figcaption>
 </figure>
 
-“Stalking the Billion-Footed Beast,” published in Harper’s in 1989, argues that American literature turned stale when it stopped relying on reportorial realism and instead turned inward (think of that mellifluous phrase “the psychological novel”). Wolfe insists that writers replace the hoary old saw “write what you know” with “write about what you find,” since in fact few people know much of anything until and unless they go out and learn it. His advice — or better, exhortation, was: leave the house, gather information, and apply reportorial techniques to fiction; i.e. invent stories that explain the real world. Don’t think of fiction as fantasy; far from it. The whole enterprise stands or falls based on your story’s plausibility, which is to say, its conformity to observed reality. Bonfire of the Vanities was so successful because everyone who knows anything about New York knew that the portrait was dead-on accurate.
+This book is so dangerous, so evil, I almost didn't include it. I felt both a bit of a moral dilemna as well as fear that listing it at all would land me on a watch list. So that's why I'm listing it. Not as an endorsement or to make light of it, but because this is what a banned book really is.
 
 
 <figure>
