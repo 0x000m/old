@@ -53,6 +53,13 @@ Granted, it’s far easier for the side that controls most of the publishing hou
 
 I wish the career of Tom Wolfe to suffice as an example. Not of patronage, for he had none, but of what might be possible today if any were available.
 
+<figure>
+    <img src=https://i.imgur.com/CHMmk6z.jpg"
+         alt="Elephant at sunset">
+    <figcaption>An elephant at sunset</figcaption>
+</figure>
+    
+
 Wolfe began his career in the late 1950s, i.e., at a time when it was easier — though by no means easy — to make one’s living by the pen. (It helped that he came from an affluent family, though I have some familiarity with his biography and never came across any indication that he was supported by his parents after college.)
 
 <figure>
