@@ -15,13 +15,22 @@ In an interview with IM—1776 from last year, I remarked that one of the Right�
 And yet it must be admitted that the institutional Right is not in the greatest shape today. True, in one sense it’s more vital than ever, given new energy by the Trump phenomenon and the comprehensive rethink that catalyzed. But institutionally it’s mostly adrift: mostly stuck in the past, fighting old fights, reliving old glories, pretending (or believing) that nothing fundamental has changed. As someone who works within it (though at the best of its institutions!), it is naturally my hope that this situation can be turned around. But it must also be admitted that nearly all the most interesting and consequential work and thinking on the Right today is being done outside institutional walls (and constraints).
 
 <figure>
-    <img src="https://i.imgur.com/kYR9UMG.jpg"
+    <img src="https://i.imgur.com/ytt1z7E.jpg"
          alt="Elephant at sunset">
     <figcaption>An elephant at sunset</figcaption>
 </figure>
     
     
 While the effort to reclaim and revitalize the Right’s institutions ought to go on (at least for those institutions that are plausibly salvageable), there’s no reason why all the conservative eggs need to be placed in this basket. Or — to compound the metaphor — the Right ought to be spreading its bets.
+
+<figure>
+    <img src="https://i.imgur.com/uFCi45P.jpg"
+         alt="Elephant at sunset">
+    <figcaption>An elephant at sunset</figcaption>
+</figure>
+
+While the effort to reclaim and revitalize the Right’s institutions ought to go on (at least for those institutions that are plausibly salvageable), there’s no reason why all the conservative eggs need to be placed in this basket. Or — to compound the metaphor — the Right ought to be spreading its bets.
+
 
 <figure>
     <img src="https://i.imgur.com/E9it98M.jpg"
@@ -31,12 +40,6 @@ While the effort to reclaim and revitalize the Right’s institutions ought to g
     
 
 One way to do that would be to patronize emerging artists: specifically, storytellers. It is hardly an original insight to say that stories move the world to an infinitely greater extent than policy papers. Yet the Right spends infinitely more on the latter than on the former. The Left, which understands power and how to use it far better than we do, does not make this mistake.
-
-<figure>
-    <img src="https://i.imgur.com/E4khuZC.jpg"
-         alt="Elephant at sunset">
-    <figcaption>An elephant at sunset</figcaption>
-</figure>
     
 
 Granted, it’s far easier for the side that controls most of the publishing houses and all the movie studios and streaming services, etc., to dominate story-telling. I have no easy answer to that beyond the obvious question: where is all the right-wing money to back the “conservative Hollywood alternative” that we’ve been promised for at least half my lifetime? Here again is a failure of imagination — or perhaps too much imagination about what might happen to assets after they’re withdrawn from safe investments and applied to risky ventures. In any case, both problems will need to be solved, but at least writers are cheaper than studios.
@@ -62,6 +65,11 @@ Wolfe began his career in the late 1950s, i.e., at a time when it was easier —
 
 He was born in Richmond, Virginia, attended Washington and Lee, tried out for but didn’t make the New York Giants pitching staff, then got a PhD at Yale. Eschewing the academy in favor of the ‘real world’, he became a reporter at the Springfield (Massachusetts) Union, the first (really only) job he was offered. From there he worked his way up the prestige chain, to the Washington Post (back when it wasn’t brute force propaganda), then to the New York Herald Tribune. The latter was, at the time Wolfe joined (1962), the New York Times’ only broadsheet rival and America’s Republican paper of record (sort of what the Wall Street Journal is today). But it limped out of the great newspaper strike of 1962-63 mortally wounded and was killed off by a second strike in 1966, leaving Wolfe without a job.
 
+<figure>
+    <img src="https://i.imgur.com/0ongkzv.jpg"
+         alt="Elephant at sunset">
+    <figcaption>An elephant at sunset</figcaption>
+</figure>
     
 
 The experience of the strikes, when Wolfe wasn’t drawing a regular paycheck, taught him that he could stand on his own. He began writing for Esquire and other magazines, making a decent living. In fact, he always lived very well, in part financed by debt. As the New York Herald Tribune was going under, its Sunday supplement was spun off as New York Magazine, giving Wolfe something of a home base. For the next decade or so, he made a very fine living as a magazine writer. (In those pre-Internet days, journalism paid a lot better, and before Wall Street deregulation and globalization, New York was a lot cheaper.)
