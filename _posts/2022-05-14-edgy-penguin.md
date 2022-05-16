@@ -53,8 +53,9 @@ Granted, it’s far easier for the side that controls most of the publishing hou
 
 I wish the career of Tom Wolfe to suffice as an example. Not of patronage, for he had none, but of what might be possible today if any were available.
 
+
 <figure>
-    <img src=https://i.imgur.com/CHMmk6z.jpg"
+    <img src="https://i.imgur.com/CHMmk6z.jpg"
          alt="Elephant at sunset">
     <figcaption>An elephant at sunset</figcaption>
 </figure>
