@@ -7,7 +7,21 @@ A friend of mine put it well when I asked him about the morality of doing this: 
 people want to not carry certain titles, that's fine. It's the memory-holing, pretending that these things never
 existed, that is dystopian. 
 
+No Dress For Timmy by Shefflorn Ballantyne
+
+And to Think That I Saw It on Mulberry Street
+
+If I Ran the Zoo,McElligot’s Pool
+
+On Beyond Zebra!
+
+Scrambled Eggs Super!
+
+The Cat’s Quizzer.
+
 The Pedophile’s Guide to Love and Pleasure
+
+Understanding Loved Boys and Boylovers by David L. Riegal
 
 Logos Rising: A History of Ultimate Reality by E. Michael Jones
 
