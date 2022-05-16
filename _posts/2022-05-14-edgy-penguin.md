@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Banned Penguin Classics
+title: Edgy Penguin Classics
 ---
 
 In an interview with IM—1776 from last year, I remarked that one of the Right’s notable failures is its inability to produce good artists. I attributed this failure in part to a lack of support and a failure of imagination by the donor class. Conservative donors, being, well, conservative, are averse, even loathe, spending money in ways and on things that everyone else hasn’t been funding for the last fifty years. This is one reason why the traditional think tanks and magazines aren’t hungry for cash, despite their dubious effectiveness in recent times. As an old business adage had it, nobody ever got fired for buying IBM. Even if the system fails — or the magazine bleeds subscribers, or the think tank wallows in irrelevance — there is little to no career or reputational risk to those responsible. Doing what everyone else is doing is almost always rewarded, or at least not punished.
@@ -62,11 +62,6 @@ Wolfe began his career in the late 1950s, i.e., at a time when it was easier —
 
 He was born in Richmond, Virginia, attended Washington and Lee, tried out for but didn’t make the New York Giants pitching staff, then got a PhD at Yale. Eschewing the academy in favor of the ‘real world’, he became a reporter at the Springfield (Massachusetts) Union, the first (really only) job he was offered. From there he worked his way up the prestige chain, to the Washington Post (back when it wasn’t brute force propaganda), then to the New York Herald Tribune. The latter was, at the time Wolfe joined (1962), the New York Times’ only broadsheet rival and America’s Republican paper of record (sort of what the Wall Street Journal is today). But it limped out of the great newspaper strike of 1962-63 mortally wounded and was killed off by a second strike in 1966, leaving Wolfe without a job.
 
-<figure>
-    <img src="https://i.imgur.com/w4pKhrs.jpg"
-         alt="Elephant at sunset">
-    <figcaption>An elephant at sunset</figcaption>
-</figure>
     
 
 The experience of the strikes, when Wolfe wasn’t drawing a regular paycheck, taught him that he could stand on his own. He began writing for Esquire and other magazines, making a decent living. In fact, he always lived very well, in part financed by debt. As the New York Herald Tribune was going under, its Sunday supplement was spun off as New York Magazine, giving Wolfe something of a home base. For the next decade or so, he made a very fine living as a magazine writer. (In those pre-Internet days, journalism paid a lot better, and before Wall Street deregulation and globalization, New York was a lot cheaper.)
@@ -79,20 +74,9 @@ The experience of the strikes, when Wolfe wasn’t drawing a regular paycheck, t
 
 Wolfe also made decent money on his first three books, especially The Electric Cool-aid Acid Test, which, unlike the other two, was a not a collection of previously published articles. But it was the blockbuster Radical Chic & Mau-Mauing the Flak Catchers that sold well enough to allow him the freedom to write about whatever he wanted — and to spend as much time as he pleased researching and reporting. His subsequent books made, and kept him, rich. One in particular — The Bonfire of the Vanities — did so well that its success prompted Wolfe to pen a kind of denunciatory challenge to all the writers in America.
 
-<figure>
-    <img src="https://i.imgur.com/NJyPulO.jpg"
-         alt="Elephant at sunset">
-    <figcaption>An elephant at sunset</figcaption>
-</figure>
 
 This book is so dangerous, so evil, I almost didn't include it. I felt both a bit of a moral dilemna as well as fear that listing it at all would land me on a watch list. So that's why I'm listing it. Not as an endorsement or to make light of it, but because this is what a banned book really is.
 
-
-<figure>
-    <img src="https://i.imgur.com/ZEssyg1.jpg"
-         alt="Elephant at sunset">
-    <figcaption>An elephant at sunset</figcaption>
-</figure>
 
 Now, of course, Wolfe-level talents aren’t exactly numerous. More prosaically, even with that level of talent, it’s nearly impossible these days for writers to make Wolfe-level money, or even a fraction. Nonetheless, I was gob-smacked by Wolfe’s manifesto when I first read it. I distinctly remember walking down Fifth Avenue and seeing the front cover of Bonfire of the Vanities — a book I had already read more than once — in a bookstore window (back then, bookstores could still afford Fifth Avenue and, more to the point, still existed). There on the dustjacket were the enticing words “With a New Forward by the Author” (referring, unbeknownst to me, to the aforementioned manifesto). Despite already owning a first edition hardback, I bought it instantly and hustled it back to my little apartment on East 50th Street and devoured it. I vowed then and there to become a writer of realistic fiction in the Wolfean manner.
 
