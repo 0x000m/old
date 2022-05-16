@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Based Penguin Classics
+title: Banned Penguin Classics
 ---
 
 In an interview with IM—1776 from last year, I remarked that one of the Right’s notable failures is its inability to produce good artists. I attributed this failure in part to a lack of support and a failure of imagination by the donor class. Conservative donors, being, well, conservative, are averse, even loathe, spending money in ways and on things that everyone else hasn’t been funding for the last fifty years. This is one reason why the traditional think tanks and magazines aren’t hungry for cash, despite their dubious effectiveness in recent times. As an old business adage had it, nobody ever got fired for buying IBM. Even if the system fails — or the magazine bleeds subscribers, or the think tank wallows in irrelevance — there is little to no career or reputational risk to those responsible. Doing what everyone else is doing is almost always rewarded, or at least not punished.
