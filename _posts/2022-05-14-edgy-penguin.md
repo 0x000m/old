@@ -82,6 +82,13 @@ The experience of the strikes, when Wolfe wasn’t drawing a regular paycheck, t
 
 Wolfe also made decent money on his first three books, especially The Electric Cool-aid Acid Test, which, unlike the other two, was a not a collection of previously published articles. But it was the blockbuster Radical Chic & Mau-Mauing the Flak Catchers that sold well enough to allow him the freedom to write about whatever he wanted — and to spend as much time as he pleased researching and reporting. His subsequent books made, and kept him, rich. One in particular — The Bonfire of the Vanities — did so well that its success prompted Wolfe to pen a kind of denunciatory challenge to all the writers in America.
 
+<figure>
+    <img src="https://i.imgur.com/eSEi7zE.jpg"
+         alt="Elephant at sunset">
+    <figcaption>An elephant at sunset</figcaption>
+</figure>
+
+
 
 This book is so dangerous, so evil, I almost didn't include it. I felt both a bit of a moral dilemna as well as fear that listing it at all would land me on a watch list. So that's why I'm listing it. Not as an endorsement or to make light of it, but because this is what a banned book really is.
 
