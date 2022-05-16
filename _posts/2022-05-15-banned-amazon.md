@@ -19,6 +19,8 @@ Auschwitz: Technique and Operation of the Gas Chambers by Germar Rudolf
 
 The Einsatzgruppen in the Occupied Eastern Territories by Carlo Mattogno
 
+March of the Titans: A History of the White Race by Arthur Kemp
+
 When Harry Became Sally by Ryan Anderson
 
 The Camp of the Saints by Jean Raspail
