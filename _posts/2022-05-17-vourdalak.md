@@ -47,4 +47,4 @@ It can be very useful to talk (in either sense) with other people as you're writ
 
 
 
-<small>Thanks to Trevor Blackwell, Patrick Collison, and Robert Morris for reading drafts of this.</small>
+
