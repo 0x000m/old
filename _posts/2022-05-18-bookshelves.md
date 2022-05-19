@@ -23,4 +23,28 @@ like me, will find that ability lacking.
 So read more! Read books you're scared to read! Read books you can only get used on eBay! Read books you'd hide from your shelves when your friends visit! And send me a note if this list has helped you or if you have any recommendations for me. I'm especially looking for "lost" books that can't be easily found on Amazon, eBay or Project Gutenberg, or wonky self-published books by unknown authors. 
 
 
+### Those that had been lost
 
+f. The Red To-Morrow by Emerson C. Hembrook psued. almost certainly George Makgill
+
+f. Blacklaw by George Makgill
+
+f. Cross Trails by Victor Waite psued. George Makgill
+
+f. Felons by George Makgill
+
+f. The Nameless Order by Dargon psued. probably George Makgill
+
+nf. The Story of Operation Atlantis by Warren K. Stevens psued. Werner Stiefel
+
+### Those that have kicked the hornet's nest
+
+nf. Bronze Age Mindset by Bronze Age Pervert
+
+f. Atlas Shrugged by Ayn Rand
+
+f. The Fountainhead by Ayn Rand
+
+f. We the Living by Ayn Rand
+
+f. Anthem by Ayn Rand
