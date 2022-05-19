@@ -18,7 +18,9 @@ don't think reading or owning an immoral book makes you an immoral person. To th
 places of the human mind and come out better and more interesting for it. How many moral beliefs could you reasonably justify if you were asked to explain them? How many historical events
 or narratives that you accept as fact could you actually personally prove if asked to do so? Reading ideas outside The Cathedral is at the very least
 a fun and useful exercise in testing your ability to respond intelligently to the absurd, the reactionary, the fringe, the cringe, or the downright the wicked. I promise you,
-like me, will find that ability lacking. So read more! Read books you're scared to read! Read books you can only get used on eBay! Read books you'd hide from your shelves when your friends visit! And send me a note if this list has helped you or if you have any recommendations for me. I'm especially looking for "lost" books that can't be easily found on Amazon, eBay or Project Gutenberg, or wonky self-published books by unknown authors. 
+like me, will find that ability lacking. 
+
+So read more! Read books you're scared to read! Read books you can only get used on eBay! Read books you'd hide from your shelves when your friends visit! And send me a note if this list has helped you or if you have any recommendations for me. I'm especially looking for "lost" books that can't be easily found on Amazon, eBay or Project Gutenberg, or wonky self-published books by unknown authors. 
 
 
 
