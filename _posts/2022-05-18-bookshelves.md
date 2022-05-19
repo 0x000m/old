@@ -34,15 +34,11 @@ So read more! Read books you're scared to read! Read books you can only get used
 
 #### Those that have kicked the hornet's nest
 
-nf. [Bronze Age Mindset](/) by Bronze Age Pervert
-
-f. [Atlas Shrugged](/) by Ayn Rand
-
-f. [The Fountainhead](/) by Ayn Rand
-
-f. [We the Living](/) by Ayn Rand
-
-f. [Anthem ](/)by Ayn Rand
+- nf. [Bronze Age Mindset](/) by Bronze Age Pervert
+- f. [Atlas Shrugged](/) by Ayn Rand
+- f. [The Fountainhead](/) by Ayn Rand
+- f. [We the Living](/) by Ayn Rand
+- f. [Anthem ](/)by Ayn Rand
 
 #### Golden calves
 
@@ -51,4 +47,4 @@ f. [Anthem ](/)by Ayn Rand
 
 #### Unreadable ones
 
-f. [Ulysses](/) by James Joyce
+- f. [Ulysses](/) by James Joyce
