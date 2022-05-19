@@ -25,17 +25,12 @@ So read more! Read books you're scared to read! Read books you can only get used
 
 #### Those that had been lost
 
-f. The Red To-Morrow by Emerson C. Hembrook psued. almost certainly George Makgill
-
-f. Blacklaw by George Makgill
-
-f. Cross Trails by Victor Waite psued. George Makgill
-
-f. Felons by George Makgill
-
-f. The Nameless Order by Dargon psued. probably George Makgill
-
-nf. The Story of Operation Atlantis by Warren K. Stevens psued. Werner Stiefel
+- f. The Red To-Morrow by Emerson C. Hembrook psued. almost certainly George Makgill
+- f. Blacklaw by George Makgill
+- f. Cross Trails by Victor Waite psued. George Makgill
+- f. Felons by George Makgill
+- f. The Nameless Order by Dargon psued. probably George Makgill
+- nf. The Story of Operation Atlantis by Warren K. Stevens psued. Werner Stiefel
 
 #### Those that have kicked the hornet's nest
 
