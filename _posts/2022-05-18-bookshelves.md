@@ -46,9 +46,8 @@ f. [Anthem ](/)by Ayn Rand
 
 #### Golden calves
 
-f. [The Bitcoin Standard](/) by Seinfeld Ammous
-
-nf. [A Gentle Introduction to Unqualified Reservations](/) by Curtis Yarvin
+- f. [The Bitcoin Standard](/) by Seinfeld Ammous
+- nf. [A Gentle Introduction to Unqualified Reservations](/) by Curtis Yarvin
 
 #### Unreadable ones
 
