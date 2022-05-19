@@ -4,7 +4,7 @@ title: Bookshelves
 permalink: bs
 ---
 
-I hesitated to publish all the books I own because I own a lot and because I wasn't sure how to best categorise them. I'm also uncomfortable recommending
+I hesitated to publish all the books I own because I own a lot and because I wasn't sure how to best categorise them. I'm also uncomfortable recommending or critisizing
 books generally because I think a lot of what makes a good book for *you* is when you read it. For example, its been my experience that the order in which you read
 *The Fountainhead* and *Atlas Shrugged* determines which one you will like more. The Bible meant nothing to me during my childhoold and early twenties
 until I experienced several personal tragedies and humbled out a lot. I'm not a fan of Ryan Holiday's wildly successful books on Stoicism and I think part of it is to do with
