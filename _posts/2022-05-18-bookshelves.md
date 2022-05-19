@@ -51,10 +51,10 @@ f. [Anthem ](/)by Ayn Rand
 
 #### Golden calves
 
-f. The Bitcoin Standard by Seinfeld Ammous
+f. [The Bitcoin Standard](/) by Seinfeld Ammous
 
-nf. A Gentle Introduction to Unqualified Reservations by Curtis Yarvin
+nf. [A Gentle Introduction to Unqualified Reservations](/) by Curtis Yarvin
 
 #### Unreadable ones
 
-f. Ulysses by James Joyce
+f. [Ulysses](/) by James Joyce
